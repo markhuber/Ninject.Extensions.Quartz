@@ -30,7 +30,7 @@ Generated_Code
 *.com
 *.class
 # *.dll
-*.exe
+# *.exe
 *.o
 *.so
 
