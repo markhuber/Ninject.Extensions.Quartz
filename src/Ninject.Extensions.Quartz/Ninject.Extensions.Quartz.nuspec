@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Ninject.Extensions.Quartz provides a Quartz JobFactory to create your Quartz jobs from your Ninject IoC container</description>
     <releaseNotes>Initial Release</releaseNotes>
-    <licenseUrl>https://github.com/dtinteractive/Topshelf.Integrations/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/dtinteractive/Ninject.Extensions.Quartz/blob/master/LICENSE</licenseUrl>
     <copyright>Copyright Dealertrack Interactive 2013</copyright>
     <tags>Quartz Ninject</tags>
     <dependencies>
