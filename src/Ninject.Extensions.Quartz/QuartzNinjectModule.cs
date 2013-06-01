@@ -1,7 +1,7 @@
-// Topshelf.Integrations
-// https://github.com/dtinteractive/Topshelf.Integrations
+// Ninject.Extensions.Quartz
+// https://github.com/dtinteractive/Ninject.Extensions.Quartz
 // 
-// Copyright (c) 2013 DT Interactive
+// Copyright (c) 2013 DealerTrack Interactive
 // Licensed under the MIT license.
 using Ninject.Modules;
 using Quartz;
