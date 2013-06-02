@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Extensions.Quartz", "Ninject.Extensions.Quartz\Ninject.Extensions.Quartz.csproj", "{26E7335D-C92D-4CDF-89B7-DC93EC34BDB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Extensions.Quartz", "Source\Ninject.Extensions.Quartz\Ninject.Extensions.Quartz.csproj", "{26E7335D-C92D-4CDF-89B7-DC93EC34BDB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
