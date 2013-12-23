@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Ninject.Extensions.Quartz</id>
-    <version>0.1.0.0</version>
+    <version>0.2.0.0</version>
     <title>Ninject.Extensions.Quartz</title>
     <authors>Mark Huber</authors>
     <owners>Dealertrack Interactive</owners>
@@ -17,4 +17,7 @@
       <dependency id="Quartz" version="2.1.2" />
     </dependencies>
   </metadata>
+  <files>
+  	<file src="bin\Release\**\Ninject.Extensions.Quartz.dll" target="lib" />
+  </files>
 </package>
